@@ -1,0 +1,6 @@
+url: https://github.com/GooDAnDReaDY/dsh-session-control
+name: GooDAnDReaDY/dsh-session-control
+category: session
+description:
+  en: "Session management for the DeepSeek Harness sidebar with pinning, content search, archived transcripts and noise hiding."
+  zh: "管理 DeepSeek Harness 侧栏会话，支持置顶、内容搜索、归档记录和隐藏噪声。"
