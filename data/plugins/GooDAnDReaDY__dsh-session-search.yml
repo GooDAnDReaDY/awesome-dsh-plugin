@@ -1,0 +1,6 @@
+url: https://github.com/GooDAnDReaDY/dsh-session-search
+name: GooDAnDReaDY/dsh-session-search
+category: session
+description:
+  en: 'Adds a session_search tool for full-text search across historical DeepSeek Harness sessions.'
+  zh: '提供 session_search 工具，用于全文搜索 DeepSeek Harness 历史会话。'
