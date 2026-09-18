@@ -1,0 +1,6 @@
+url: https://github.com/GooDAnDReaDY/dsh-approval-gate
+name: GooDAnDReaDY/dsh-approval-gate
+category: security
+description:
+  en: 'Blocks recognized dangerous host commands and asks for approval when a command cannot be inspected.'
+  zh: '拦截已识别的危险主机命令，并在无法检查命令时请求批准。'
