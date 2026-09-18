@@ -1,0 +1,6 @@
+url: https://github.com/GooDAnDReaDY/dsh-server-monitor
+name: GooDAnDReaDY/dsh-server-monitor
+category: remote
+description:
+  en: 'Read-only SSH monitoring for Linux hosts, showing CPU, memory, storage, processes, containers, network, and listening ports.'
+  zh: '通过 SSH 只读监控 Linux 主机，显示 CPU、内存、存储、进程、容器、网络和监听端口。'
